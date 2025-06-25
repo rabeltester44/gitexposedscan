@@ -9,7 +9,7 @@ BRANCO = "\033[0;0m"
 AMARELO = "\033[1;93m"
 CLARO = "\033[93m"
 
-print(f'{VERMELHO}[ MASS GIT SCANNER ]')
+print(f'{PAING}[ MASS GIT SCANNER ]')
 
 hosts = input(CLARO + 'Input List: ' + BRANCO)
 
